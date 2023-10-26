@@ -1,7 +1,7 @@
 
 function CustomerReviews(props) {
     return (
-        <div>CustomerReviews</div>
+        <div>Customeriews</div>
     );
 }
 
